@@ -2287,6 +2287,11 @@ span.meta-date {
   .block-info .col-md-4:not(:last-child) {
     margin-bottom: 30px;
   }
+
+  .listing-event {
+    display: flex;
+    gap: 1.5rem;
+  }
 }
 
 /* -------------------- End media queries -------------------- */
